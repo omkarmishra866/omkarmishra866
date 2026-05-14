@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Omkar Kumar 👋
 
-<!--
-**omkarmishra866/omkarmishra866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE — Bharati Vidyapeeth, GGSIPU, New Delhi  
+💡 Building AI projects with Python & Google Gemini API  
+📜 Certifications: DSA (Coursera) | Java (Coursera) | IIM Calcutta | YTS Leadership Boot Camp
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Python | Java | SQL | SQLite | Gemini API | Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🤖 [AI Study Assistant](https://github.com/omkarmishra866/ai-study-assistant)
+- 📄 [AI Resume Analyzer](https://github.com/omkarmishra866/ai-resume-analyzer)
+- 💰 [Smart Expense Tracker](https://github.com/omkarmishra866/smart-expense-tracker)
+
+📫 omka9142@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/omkar-mishra-4b7470295)
